@@ -1,0 +1,10 @@
+.item-add-form-wrapper {
+    display: flex;
+    margin-top: 10px;
+}
+.item-add-form-wrapper input {
+    margin-right: 5px;
+}
+.item-add-form-wrapper button {
+    flex-shrink: 0;
+}
